@@ -10,6 +10,8 @@ Wickie Bot is a public discord music bot with lot of amazing features !!
 
 ◉ If you don't have any development knowledge, it is recommended to join the Discord support server to get help
 
+◉ Do Invite My Bot In Your Server https://discord.com/oauth2/authorize?client_id=899181359287926824&permissions=8&scope=bot
+
 ![](https://c.tenor.com/8CZQ5N0SPKAAAAAC/mochi-cat.gif)
 
 # For Any Help and information
